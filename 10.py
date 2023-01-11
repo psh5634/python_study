@@ -12,3 +12,4 @@ print(lang[:])  # 슬라이싱
 
 #몇 번째 = 인덱스 
 #어디부터 : 어디까지 = 슬라이싱 
+#lang[start : end] = start 부터 end 직전까지 
